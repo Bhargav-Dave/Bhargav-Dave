@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### I'm Bhargav, currently an ICT Major, interested in Data Science and working on a few projects at the intersections of Data Science, Computational Science and Social Science that interest me! 
+
+- 🔭 I’m currently working on Ising Networks and Opinion Kinematics
+- 👯 I’m looking to collaborate on projects at the intersection of Data Science and Humanities
+- 😄 Pronouns: He/Him
