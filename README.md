@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 ### I'm Bhargav, an ICT Undergraduate, interested in Data Science and working on a few projects at the intersections of Data Science, Computational Science and Social Science that interest me! 
 
-- 🔭 I’m currently working as a Data Engineer at [Tattle](https://www.tattle.co.in) and working on a plugin to mitigate Online Gender Based Violence
+- 🔭 I’ve previously worked as a Data Engineer/Fullstack Developer at [Tattle](https://www.tattle.co.in) on a plugin to mitigate Online Gender Based Violence as well as a game about the spread of misinformation online
 - 👯 I’m looking to collaborate on projects at the intersection of Data Science and Humanities
 - 😄 Pronouns: He/Him
